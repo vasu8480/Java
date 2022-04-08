@@ -1,6 +1,6 @@
 import java.util.*;
 
-class rough {
+class mergesort {
   public static void main(String args[]) {
 	  int[] arr= {9,1,8,4,5};
 	  mergesort(arr);
